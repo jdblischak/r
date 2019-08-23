@@ -1,0 +1,6 @@
+name: binder-ignores-name
+channels:
+- conda-forge
+- defaults
+dependencies:
+- r-base
